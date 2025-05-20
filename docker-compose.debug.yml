@@ -1,0 +1,6 @@
+services:
+  apacheairflow:
+    image: apacheairflow
+    build:
+      context: .
+      dockerfile: ./Dockerfile
