@@ -3,11 +3,10 @@
 # imports important for Airflow
 import pendulum
 from airflow.decorators import dag, task
-# from airflow.providers.http.operators.http import HttpOperator
-from airflow.providers.http.operators.http import SimpleHttpOperator
 
 # Import Modules for code
 import json
+import requests
 
 # import custom transformer for API data
 from transformer import transform_weatherAPI
@@ -19,8 +18,7 @@ from transformer import transform_weatherAPI
     catchup=False,                                      # no catchup needed, because we are running an api that returns now values
     tags=['LearnDataEngineering'],                      # tag the DAQ so it's easy to find in AirflowUI
 )
-
-def SimpleHTTPTest():
+def ETLWeatherPrint():
     """
     ### TaskFlow API Tutorial Documentation
     This is a simple ETL data pipeline example which demonstrates the use of
@@ -31,15 +29,21 @@ def SimpleHTTPTest():
     """
 
     # EXTRACT: Query the data from the Weather API
-    # TODO: Change the API Key to your key!!
-    extract_task = SimpleHttpOperator(
-        task_id="extract_data",
-        http_conn_id='WeatherAPI',
-        method="GET",
-        endpoint="/v1/current.json",
-        data={'Key': '2b4b5ddd923643fe9cf150326230507', 'q': 'Cairo', 'aqi': 'no'},
-        response_filter=lambda response: response.json()
-    )
+    @task()
+    def extract():
+                
+        # TODO: Change the API Key to your key!!
+        
+        payload = {'Key': '189ab26f2d0f4157ab5110038252005', 'q': 'Berlin', 'aqi': 'no'}
+        r = requests.get("http://api.weatherapi.com/v1/current.json", params=payload)
+
+        # Get the json
+        r_string = r.json()
+
+        #weather_data_dict = json.loads(r_string)
+        #print(weather_data_dict)
+        return r_string
+
 
     # TRANSFORM: Transform the API response into something that is useful for the load
     @task()
@@ -63,10 +67,14 @@ def SimpleHTTPTest():
 
         print(ex_dict)
 
+
+
     # Define the main flow
-    weather_data = extract_task.output
+    weather_data = extract()
     weather_summary = transform(weather_data)
     load(weather_summary)
 
+
+
 # Invocate the DAG
-lde_weather_dag = SimpleHTTPTest()
+lde_weather_dag = ETLWeatherPrint()

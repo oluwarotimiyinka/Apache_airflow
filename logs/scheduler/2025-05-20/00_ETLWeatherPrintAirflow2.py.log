@@ -1,0 +1,682 @@
+[2025-05-20 13:00:16,724] {processor.py:163} INFO - Started process (PID=44) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:00:16,726] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:00:16,727] {logging_mixin.py:109} INFO - [2025-05-20 13:00:16,727] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:00:18,120] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:00:21,481] {logging_mixin.py:109} INFO - [2025-05-20 13:00:21,481] {manager.py:496} INFO - Created Permission View: can edit on DAG:ETLWeatherPrintAirflow2
+[2025-05-20 13:00:21,488] {logging_mixin.py:109} INFO - [2025-05-20 13:00:21,488] {manager.py:496} INFO - Created Permission View: can read on DAG:ETLWeatherPrintAirflow2
+[2025-05-20 13:00:21,490] {logging_mixin.py:109} INFO - [2025-05-20 13:00:21,489] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:00:21,499] {logging_mixin.py:109} INFO - [2025-05-20 13:00:21,498] {dag.py:2417} INFO - Creating ORM DAG for ETLWeatherPrintAirflow2
+[2025-05-20 13:00:21,509] {logging_mixin.py:109} INFO - [2025-05-20 13:00:21,508] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:00:21,520] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 4.801 seconds
+[2025-05-20 13:00:52,121] {processor.py:163} INFO - Started process (PID=181) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:00:52,122] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:00:52,122] {logging_mixin.py:109} INFO - [2025-05-20 13:00:52,122] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:00:52,650] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:00:52,659] {logging_mixin.py:109} INFO - [2025-05-20 13:00:52,659] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:00:52,678] {logging_mixin.py:109} INFO - [2025-05-20 13:00:52,678] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:00:52,689] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.571 seconds
+[2025-05-20 13:01:23,088] {processor.py:163} INFO - Started process (PID=323) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:01:23,089] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:01:23,089] {logging_mixin.py:109} INFO - [2025-05-20 13:01:23,089] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:01:23,493] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:01:23,500] {logging_mixin.py:109} INFO - [2025-05-20 13:01:23,500] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:01:23,517] {logging_mixin.py:109} INFO - [2025-05-20 13:01:23,517] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:01:23,526] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.440 seconds
+[2025-05-20 13:01:54,275] {processor.py:163} INFO - Started process (PID=455) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:01:54,276] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:01:54,277] {logging_mixin.py:109} INFO - [2025-05-20 13:01:54,276] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:01:54,683] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:01:54,691] {logging_mixin.py:109} INFO - [2025-05-20 13:01:54,691] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:01:54,705] {logging_mixin.py:109} INFO - [2025-05-20 13:01:54,705] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:01:54,713] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.440 seconds
+[2025-05-20 13:02:25,428] {processor.py:163} INFO - Started process (PID=587) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:02:25,429] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:02:25,429] {logging_mixin.py:109} INFO - [2025-05-20 13:02:25,429] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:02:25,860] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:02:25,868] {logging_mixin.py:109} INFO - [2025-05-20 13:02:25,868] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:02:25,884] {logging_mixin.py:109} INFO - [2025-05-20 13:02:25,883] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:02:25,890] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.464 seconds
+[2025-05-20 13:02:56,405] {processor.py:163} INFO - Started process (PID=729) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:02:56,406] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:02:56,407] {logging_mixin.py:109} INFO - [2025-05-20 13:02:56,407] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:02:56,794] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:02:56,800] {logging_mixin.py:109} INFO - [2025-05-20 13:02:56,800] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:02:56,814] {logging_mixin.py:109} INFO - [2025-05-20 13:02:56,814] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:02:56,821] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.418 seconds
+[2025-05-20 13:03:27,288] {processor.py:163} INFO - Started process (PID=861) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:03:27,289] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:03:27,290] {logging_mixin.py:109} INFO - [2025-05-20 13:03:27,289] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:03:27,684] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:03:27,691] {logging_mixin.py:109} INFO - [2025-05-20 13:03:27,691] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:03:27,703] {logging_mixin.py:109} INFO - [2025-05-20 13:03:27,703] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:03:27,710] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.424 seconds
+[2025-05-20 13:03:58,410] {processor.py:163} INFO - Started process (PID=993) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:03:58,411] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:03:58,411] {logging_mixin.py:109} INFO - [2025-05-20 13:03:58,411] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:03:58,947] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:03:58,954] {logging_mixin.py:109} INFO - [2025-05-20 13:03:58,953] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:03:58,966] {logging_mixin.py:109} INFO - [2025-05-20 13:03:58,965] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:03:58,972] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.565 seconds
+[2025-05-20 13:04:29,548] {processor.py:163} INFO - Started process (PID=1135) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:04:29,549] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:04:29,549] {logging_mixin.py:109} INFO - [2025-05-20 13:04:29,549] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:04:29,967] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:04:29,974] {logging_mixin.py:109} INFO - [2025-05-20 13:04:29,974] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:04:29,985] {logging_mixin.py:109} INFO - [2025-05-20 13:04:29,985] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:04:29,990] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.444 seconds
+[2025-05-20 13:05:00,667] {processor.py:163} INFO - Started process (PID=1267) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:05:00,668] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:05:00,668] {logging_mixin.py:109} INFO - [2025-05-20 13:05:00,668] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:05:01,081] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:05:01,088] {logging_mixin.py:109} INFO - [2025-05-20 13:05:01,087] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:05:01,099] {logging_mixin.py:109} INFO - [2025-05-20 13:05:01,099] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:05:01,105] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.440 seconds
+[2025-05-20 13:05:31,828] {processor.py:163} INFO - Started process (PID=1409) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:05:31,829] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:05:31,830] {logging_mixin.py:109} INFO - [2025-05-20 13:05:31,829] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:05:32,402] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:05:32,409] {logging_mixin.py:109} INFO - [2025-05-20 13:05:32,409] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:05:32,423] {logging_mixin.py:109} INFO - [2025-05-20 13:05:32,422] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:05:32,431] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.605 seconds
+[2025-05-20 13:06:02,549] {processor.py:163} INFO - Started process (PID=1541) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:06:02,550] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:06:02,551] {logging_mixin.py:109} INFO - [2025-05-20 13:06:02,550] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:06:02,965] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:06:02,972] {logging_mixin.py:109} INFO - [2025-05-20 13:06:02,972] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:06:02,984] {logging_mixin.py:109} INFO - [2025-05-20 13:06:02,984] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:06:02,989] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.442 seconds
+[2025-05-20 13:06:33,510] {processor.py:163} INFO - Started process (PID=1673) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:06:33,511] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:06:33,512] {logging_mixin.py:109} INFO - [2025-05-20 13:06:33,512] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:06:33,939] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:06:33,947] {logging_mixin.py:109} INFO - [2025-05-20 13:06:33,947] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:06:33,958] {logging_mixin.py:109} INFO - [2025-05-20 13:06:33,958] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:06:33,964] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.455 seconds
+[2025-05-20 13:07:04,453] {processor.py:163} INFO - Started process (PID=1815) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:07:04,454] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:07:04,454] {logging_mixin.py:109} INFO - [2025-05-20 13:07:04,454] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:07:04,882] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:07:04,889] {logging_mixin.py:109} INFO - [2025-05-20 13:07:04,889] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:07:04,902] {logging_mixin.py:109} INFO - [2025-05-20 13:07:04,902] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:07:04,909] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.458 seconds
+[2025-05-20 13:07:36,108] {processor.py:163} INFO - Started process (PID=1947) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:07:36,109] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:07:36,110] {logging_mixin.py:109} INFO - [2025-05-20 13:07:36,109] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:07:36,520] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:07:36,528] {logging_mixin.py:109} INFO - [2025-05-20 13:07:36,527] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:07:36,541] {logging_mixin.py:109} INFO - [2025-05-20 13:07:36,540] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:07:36,546] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.440 seconds
+[2025-05-20 13:08:08,990] {processor.py:163} INFO - Started process (PID=2089) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:08:08,991] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:08:08,992] {logging_mixin.py:109} INFO - [2025-05-20 13:08:08,992] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:08:09,426] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:08:09,432] {logging_mixin.py:109} INFO - [2025-05-20 13:08:09,432] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:08:09,444] {logging_mixin.py:109} INFO - [2025-05-20 13:08:09,444] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:08:09,450] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.462 seconds
+[2025-05-20 13:08:41,138] {processor.py:163} INFO - Started process (PID=2221) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:08:41,139] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:08:41,140] {logging_mixin.py:109} INFO - [2025-05-20 13:08:41,140] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:08:41,539] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:08:41,546] {logging_mixin.py:109} INFO - [2025-05-20 13:08:41,545] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:08:41,557] {logging_mixin.py:109} INFO - [2025-05-20 13:08:41,557] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:08:41,562] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.426 seconds
+[2025-05-20 13:09:13,341] {processor.py:163} INFO - Started process (PID=2362) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:09:13,342] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:09:13,342] {logging_mixin.py:109} INFO - [2025-05-20 13:09:13,342] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:09:13,758] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:09:13,765] {logging_mixin.py:109} INFO - [2025-05-20 13:09:13,765] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:09:13,778] {logging_mixin.py:109} INFO - [2025-05-20 13:09:13,778] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:09:13,784] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.445 seconds
+[2025-05-20 13:09:45,661] {processor.py:163} INFO - Started process (PID=2495) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:09:45,662] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:09:45,663] {logging_mixin.py:109} INFO - [2025-05-20 13:09:45,663] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:09:46,048] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:09:46,055] {logging_mixin.py:109} INFO - [2025-05-20 13:09:46,055] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:09:46,066] {logging_mixin.py:109} INFO - [2025-05-20 13:09:46,066] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:09:46,072] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.412 seconds
+[2025-05-20 13:10:18,541] {processor.py:163} INFO - Started process (PID=2637) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:10:18,542] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:10:18,542] {logging_mixin.py:109} INFO - [2025-05-20 13:10:18,542] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:10:18,943] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:10:18,949] {logging_mixin.py:109} INFO - [2025-05-20 13:10:18,949] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:10:18,961] {logging_mixin.py:109} INFO - [2025-05-20 13:10:18,960] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:10:18,967] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.429 seconds
+[2025-05-20 13:10:50,133] {processor.py:163} INFO - Started process (PID=2769) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:10:50,134] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:10:50,135] {logging_mixin.py:109} INFO - [2025-05-20 13:10:50,135] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:10:50,606] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:10:50,613] {logging_mixin.py:109} INFO - [2025-05-20 13:10:50,613] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:10:50,627] {logging_mixin.py:109} INFO - [2025-05-20 13:10:50,627] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:10:50,633] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.502 seconds
+[2025-05-20 13:11:22,435] {processor.py:163} INFO - Started process (PID=2901) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:11:22,437] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:11:22,437] {logging_mixin.py:109} INFO - [2025-05-20 13:11:22,437] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:11:22,864] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:11:22,871] {logging_mixin.py:109} INFO - [2025-05-20 13:11:22,871] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:11:22,885] {logging_mixin.py:109} INFO - [2025-05-20 13:11:22,884] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:11:22,890] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.457 seconds
+[2025-05-20 13:11:54,836] {processor.py:163} INFO - Started process (PID=3043) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:11:54,837] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:11:54,837] {logging_mixin.py:109} INFO - [2025-05-20 13:11:54,837] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:11:55,265] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:11:55,271] {logging_mixin.py:109} INFO - [2025-05-20 13:11:55,271] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:11:55,288] {logging_mixin.py:109} INFO - [2025-05-20 13:11:55,288] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:11:55,297] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.464 seconds
+[2025-05-20 13:12:27,226] {processor.py:163} INFO - Started process (PID=3175) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:12:27,227] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:12:27,228] {logging_mixin.py:109} INFO - [2025-05-20 13:12:27,227] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:12:27,630] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:12:27,638] {logging_mixin.py:109} INFO - [2025-05-20 13:12:27,638] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:12:27,653] {logging_mixin.py:109} INFO - [2025-05-20 13:12:27,652] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:12:27,660] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.436 seconds
+[2025-05-20 13:13:00,210] {processor.py:163} INFO - Started process (PID=3317) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:13:00,211] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:13:00,211] {logging_mixin.py:109} INFO - [2025-05-20 13:13:00,211] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:13:00,621] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:13:00,628] {logging_mixin.py:109} INFO - [2025-05-20 13:13:00,628] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:13:00,640] {logging_mixin.py:109} INFO - [2025-05-20 13:13:00,640] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:13:00,647] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.439 seconds
+[2025-05-20 13:13:32,128] {processor.py:163} INFO - Started process (PID=3449) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:13:32,129] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:13:32,129] {logging_mixin.py:109} INFO - [2025-05-20 13:13:32,129] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:13:32,549] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:13:32,555] {logging_mixin.py:109} INFO - [2025-05-20 13:13:32,555] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:13:32,566] {logging_mixin.py:109} INFO - [2025-05-20 13:13:32,566] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:13:32,572] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.446 seconds
+[2025-05-20 13:14:04,489] {processor.py:163} INFO - Started process (PID=3591) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:14:04,490] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:14:04,490] {logging_mixin.py:109} INFO - [2025-05-20 13:14:04,490] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:14:04,871] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:14:04,878] {logging_mixin.py:109} INFO - [2025-05-20 13:14:04,877] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:14:04,889] {logging_mixin.py:109} INFO - [2025-05-20 13:14:04,889] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:14:04,895] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.409 seconds
+[2025-05-20 13:14:37,547] {processor.py:163} INFO - Started process (PID=3723) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:14:37,548] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:14:37,548] {logging_mixin.py:109} INFO - [2025-05-20 13:14:37,548] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:14:37,940] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:14:37,947] {logging_mixin.py:109} INFO - [2025-05-20 13:14:37,947] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:14:37,959] {logging_mixin.py:109} INFO - [2025-05-20 13:14:37,959] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:14:37,965] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.420 seconds
+[2025-05-20 13:15:09,412] {processor.py:163} INFO - Started process (PID=3865) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:15:09,413] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:15:09,413] {logging_mixin.py:109} INFO - [2025-05-20 13:15:09,413] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:15:09,804] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:15:09,810] {logging_mixin.py:109} INFO - [2025-05-20 13:15:09,810] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:15:09,821] {logging_mixin.py:109} INFO - [2025-05-20 13:15:09,821] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:15:09,827] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.417 seconds
+[2025-05-20 13:15:42,292] {processor.py:163} INFO - Started process (PID=3997) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:15:42,293] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:15:42,294] {logging_mixin.py:109} INFO - [2025-05-20 13:15:42,293] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:15:42,691] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:15:42,696] {logging_mixin.py:109} INFO - [2025-05-20 13:15:42,696] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:15:42,707] {logging_mixin.py:109} INFO - [2025-05-20 13:15:42,707] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:15:42,713] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.423 seconds
+[2025-05-20 13:44:20,727] {processor.py:163} INFO - Started process (PID=4129) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:44:20,729] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 13:44:20,730] {logging_mixin.py:109} INFO - [2025-05-20 13:44:20,730] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:44:21,413] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 13:44:21,426] {logging_mixin.py:109} INFO - [2025-05-20 13:44:21,426] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 13:44:21,449] {logging_mixin.py:109} INFO - [2025-05-20 13:44:21,448] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T12:00:00+00:00
+[2025-05-20 13:44:21,462] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.745 seconds
+[2025-05-20 14:21:14,705] {processor.py:163} INFO - Started process (PID=4221) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:21:14,711] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:21:14,713] {logging_mixin.py:109} INFO - [2025-05-20 14:21:14,712] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:21:16,298] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:21:16,464] {logging_mixin.py:109} INFO - [2025-05-20 14:21:16,464] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:21:16,862] {logging_mixin.py:109} INFO - [2025-05-20 14:21:16,862] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T13:00:00+00:00
+[2025-05-20 14:21:16,905] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 2.038 seconds
+[2025-05-20 14:21:47,406] {processor.py:163} INFO - Started process (PID=4340) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:21:47,406] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:21:47,407] {logging_mixin.py:109} INFO - [2025-05-20 14:21:47,407] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:21:47,958] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:21:47,967] {logging_mixin.py:109} INFO - [2025-05-20 14:21:47,966] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:21:47,981] {logging_mixin.py:109} INFO - [2025-05-20 14:21:47,980] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T13:00:00+00:00
+[2025-05-20 14:21:47,987] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.585 seconds
+[2025-05-20 14:22:18,333] {processor.py:163} INFO - Started process (PID=4475) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:22:18,335] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:22:18,335] {logging_mixin.py:109} INFO - [2025-05-20 14:22:18,335] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:22:18,832] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:22:18,839] {logging_mixin.py:109} INFO - [2025-05-20 14:22:18,839] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:22:18,851] {logging_mixin.py:109} INFO - [2025-05-20 14:22:18,851] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T13:00:00+00:00
+[2025-05-20 14:22:18,857] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.527 seconds
+[2025-05-20 14:22:49,611] {processor.py:163} INFO - Started process (PID=4607) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:22:49,613] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:22:49,614] {logging_mixin.py:109} INFO - [2025-05-20 14:22:49,614] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:22:50,175] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:22:50,185] {logging_mixin.py:109} INFO - [2025-05-20 14:22:50,185] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:22:50,202] {logging_mixin.py:109} INFO - [2025-05-20 14:22:50,202] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T13:00:00+00:00
+[2025-05-20 14:22:50,214] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.607 seconds
+[2025-05-20 14:23:20,971] {processor.py:163} INFO - Started process (PID=4749) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:23:20,972] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:23:20,973] {logging_mixin.py:109} INFO - [2025-05-20 14:23:20,972] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:23:21,365] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:23:21,373] {logging_mixin.py:109} INFO - [2025-05-20 14:23:21,373] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:23:21,387] {logging_mixin.py:109} INFO - [2025-05-20 14:23:21,387] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T13:00:00+00:00
+[2025-05-20 14:23:21,396] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.428 seconds
+[2025-05-20 14:23:51,546] {processor.py:163} INFO - Started process (PID=4881) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:23:51,549] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:23:51,549] {logging_mixin.py:109} INFO - [2025-05-20 14:23:51,549] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:23:52,086] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:23:52,096] {logging_mixin.py:109} INFO - [2025-05-20 14:23:52,096] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:23:52,114] {logging_mixin.py:109} INFO - [2025-05-20 14:23:52,113] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T13:00:00+00:00
+[2025-05-20 14:23:52,122] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.581 seconds
+[2025-05-20 14:24:22,728] {processor.py:163} INFO - Started process (PID=5013) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:24:22,729] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:24:22,730] {logging_mixin.py:109} INFO - [2025-05-20 14:24:22,730] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:24:23,101] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:24:23,109] {logging_mixin.py:109} INFO - [2025-05-20 14:24:23,109] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:24:23,122] {logging_mixin.py:109} INFO - [2025-05-20 14:24:23,122] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T13:00:00+00:00
+[2025-05-20 14:24:23,131] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.404 seconds
+[2025-05-20 14:24:53,492] {processor.py:163} INFO - Started process (PID=5167) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:24:53,494] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:24:53,495] {logging_mixin.py:109} INFO - [2025-05-20 14:24:53,495] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:24:53,970] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:24:53,977] {logging_mixin.py:109} INFO - [2025-05-20 14:24:53,977] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:24:53,990] {logging_mixin.py:109} INFO - [2025-05-20 14:24:53,990] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:24:54,000] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.511 seconds
+[2025-05-20 14:25:24,339] {processor.py:163} INFO - Started process (PID=5299) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:25:24,342] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:25:24,342] {logging_mixin.py:109} INFO - [2025-05-20 14:25:24,342] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:25:24,901] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:25:24,911] {logging_mixin.py:109} INFO - [2025-05-20 14:25:24,911] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:25:24,968] {logging_mixin.py:109} INFO - [2025-05-20 14:25:24,968] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:25:24,976] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.639 seconds
+[2025-05-20 14:25:55,035] {processor.py:163} INFO - Started process (PID=5431) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:25:55,036] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:25:55,037] {logging_mixin.py:109} INFO - [2025-05-20 14:25:55,037] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:25:55,443] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:25:55,451] {logging_mixin.py:109} INFO - [2025-05-20 14:25:55,451] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:25:55,463] {logging_mixin.py:109} INFO - [2025-05-20 14:25:55,463] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:25:55,470] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.438 seconds
+[2025-05-20 14:26:25,516] {processor.py:163} INFO - Started process (PID=5563) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:26:25,520] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:26:25,520] {logging_mixin.py:109} INFO - [2025-05-20 14:26:25,520] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:26:26,111] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:26:26,118] {logging_mixin.py:109} INFO - [2025-05-20 14:26:26,118] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:26:26,131] {logging_mixin.py:109} INFO - [2025-05-20 14:26:26,131] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:26:26,138] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.626 seconds
+[2025-05-20 14:26:56,472] {processor.py:163} INFO - Started process (PID=5705) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:26:56,474] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:26:56,475] {logging_mixin.py:109} INFO - [2025-05-20 14:26:56,475] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:26:57,008] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:26:57,016] {logging_mixin.py:109} INFO - [2025-05-20 14:26:57,015] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:26:57,029] {logging_mixin.py:109} INFO - [2025-05-20 14:26:57,029] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:26:57,037] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.567 seconds
+[2025-05-20 14:27:27,433] {processor.py:163} INFO - Started process (PID=5837) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:27:27,436] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:27:27,437] {logging_mixin.py:109} INFO - [2025-05-20 14:27:27,437] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:27:28,514] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:27:28,525] {logging_mixin.py:109} INFO - [2025-05-20 14:27:28,525] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:27:28,543] {logging_mixin.py:109} INFO - [2025-05-20 14:27:28,543] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:27:28,552] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 1.126 seconds
+[2025-05-20 14:27:58,771] {processor.py:163} INFO - Started process (PID=5969) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:27:58,772] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:27:58,773] {logging_mixin.py:109} INFO - [2025-05-20 14:27:58,773] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:27:59,234] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:27:59,243] {logging_mixin.py:109} INFO - [2025-05-20 14:27:59,242] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:27:59,258] {logging_mixin.py:109} INFO - [2025-05-20 14:27:59,257] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:27:59,266] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.497 seconds
+[2025-05-20 14:28:29,523] {processor.py:163} INFO - Started process (PID=6111) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:28:29,525] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:28:29,525] {logging_mixin.py:109} INFO - [2025-05-20 14:28:29,525] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:28:30,105] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:28:30,114] {logging_mixin.py:109} INFO - [2025-05-20 14:28:30,113] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:28:30,129] {logging_mixin.py:109} INFO - [2025-05-20 14:28:30,129] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:28:30,137] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.617 seconds
+[2025-05-20 14:29:00,964] {processor.py:163} INFO - Started process (PID=6225) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:29:00,966] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:29:00,966] {logging_mixin.py:109} INFO - [2025-05-20 14:29:00,966] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:29:01,459] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:29:01,467] {logging_mixin.py:109} INFO - [2025-05-20 14:29:01,466] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:29:01,480] {logging_mixin.py:109} INFO - [2025-05-20 14:29:01,480] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:29:01,488] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.526 seconds
+[2025-05-20 14:29:32,875] {processor.py:163} INFO - Started process (PID=6357) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:29:32,877] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:29:32,878] {logging_mixin.py:109} INFO - [2025-05-20 14:29:32,878] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:29:33,370] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:29:33,380] {logging_mixin.py:109} INFO - [2025-05-20 14:29:33,379] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:29:33,395] {logging_mixin.py:109} INFO - [2025-05-20 14:29:33,395] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:29:33,403] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.531 seconds
+[2025-05-20 14:30:04,860] {processor.py:163} INFO - Started process (PID=6499) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:30:04,863] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:30:04,863] {logging_mixin.py:109} INFO - [2025-05-20 14:30:04,863] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:30:05,425] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:30:05,434] {logging_mixin.py:109} INFO - [2025-05-20 14:30:05,434] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:30:05,449] {logging_mixin.py:109} INFO - [2025-05-20 14:30:05,449] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:30:05,458] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.600 seconds
+[2025-05-20 14:30:36,967] {processor.py:163} INFO - Started process (PID=6631) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:30:36,968] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:30:36,968] {logging_mixin.py:109} INFO - [2025-05-20 14:30:36,968] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:30:37,443] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:30:37,452] {logging_mixin.py:109} INFO - [2025-05-20 14:30:37,452] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:30:37,465] {logging_mixin.py:109} INFO - [2025-05-20 14:30:37,465] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:30:37,474] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.511 seconds
+[2025-05-20 14:31:09,066] {processor.py:163} INFO - Started process (PID=6763) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:31:09,068] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:31:09,069] {logging_mixin.py:109} INFO - [2025-05-20 14:31:09,068] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:31:09,635] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:31:09,644] {logging_mixin.py:109} INFO - [2025-05-20 14:31:09,644] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:31:09,656] {logging_mixin.py:109} INFO - [2025-05-20 14:31:09,656] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:31:09,664] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.601 seconds
+[2025-05-20 14:31:41,663] {processor.py:163} INFO - Started process (PID=6905) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:31:41,664] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:31:41,665] {logging_mixin.py:109} INFO - [2025-05-20 14:31:41,665] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:31:42,182] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:31:42,190] {logging_mixin.py:109} INFO - [2025-05-20 14:31:42,190] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:31:42,205] {logging_mixin.py:109} INFO - [2025-05-20 14:31:42,205] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:31:42,215] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.555 seconds
+[2025-05-20 14:32:13,582] {processor.py:163} INFO - Started process (PID=7037) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:32:13,585] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:32:13,586] {logging_mixin.py:109} INFO - [2025-05-20 14:32:13,586] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:32:14,358] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:32:14,369] {logging_mixin.py:109} INFO - [2025-05-20 14:32:14,368] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:32:14,386] {logging_mixin.py:109} INFO - [2025-05-20 14:32:14,385] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:32:14,394] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.815 seconds
+[2025-05-20 14:32:45,920] {processor.py:163} INFO - Started process (PID=7169) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:32:45,921] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:32:45,922] {logging_mixin.py:109} INFO - [2025-05-20 14:32:45,922] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:32:46,479] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:32:46,487] {logging_mixin.py:109} INFO - [2025-05-20 14:32:46,487] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:32:46,501] {logging_mixin.py:109} INFO - [2025-05-20 14:32:46,501] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:32:46,511] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.594 seconds
+[2025-05-20 14:33:18,161] {processor.py:163} INFO - Started process (PID=7311) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:33:18,162] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:33:18,163] {logging_mixin.py:109} INFO - [2025-05-20 14:33:18,162] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:33:18,600] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:33:18,607] {logging_mixin.py:109} INFO - [2025-05-20 14:33:18,607] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:33:18,620] {logging_mixin.py:109} INFO - [2025-05-20 14:33:18,620] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:33:18,627] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.468 seconds
+[2025-05-20 14:33:50,874] {processor.py:163} INFO - Started process (PID=7443) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:33:50,875] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:33:50,876] {logging_mixin.py:109} INFO - [2025-05-20 14:33:50,876] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:33:51,329] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:33:51,337] {logging_mixin.py:109} INFO - [2025-05-20 14:33:51,337] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:33:51,349] {logging_mixin.py:109} INFO - [2025-05-20 14:33:51,349] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:33:51,356] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.484 seconds
+[2025-05-20 14:34:23,288] {processor.py:163} INFO - Started process (PID=7584) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:34:23,289] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:34:23,290] {logging_mixin.py:109} INFO - [2025-05-20 14:34:23,290] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:34:23,840] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:34:23,849] {logging_mixin.py:109} INFO - [2025-05-20 14:34:23,849] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:34:23,864] {logging_mixin.py:109} INFO - [2025-05-20 14:34:23,864] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:34:23,871] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.587 seconds
+[2025-05-20 14:34:55,716] {processor.py:163} INFO - Started process (PID=7717) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:34:55,718] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:34:55,718] {logging_mixin.py:109} INFO - [2025-05-20 14:34:55,718] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:34:56,226] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:34:56,233] {logging_mixin.py:109} INFO - [2025-05-20 14:34:56,233] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:34:56,246] {logging_mixin.py:109} INFO - [2025-05-20 14:34:56,246] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:34:56,254] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.540 seconds
+[2025-05-20 14:35:28,133] {processor.py:163} INFO - Started process (PID=7849) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:35:28,134] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:35:28,135] {logging_mixin.py:109} INFO - [2025-05-20 14:35:28,135] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:35:28,942] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:35:28,950] {logging_mixin.py:109} INFO - [2025-05-20 14:35:28,950] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:35:28,964] {logging_mixin.py:109} INFO - [2025-05-20 14:35:28,964] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:35:28,972] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.842 seconds
+[2025-05-20 14:36:00,162] {processor.py:163} INFO - Started process (PID=7992) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:36:00,165] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:36:00,165] {logging_mixin.py:109} INFO - [2025-05-20 14:36:00,165] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:36:00,716] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:36:00,724] {logging_mixin.py:109} INFO - [2025-05-20 14:36:00,724] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:36:00,741] {logging_mixin.py:109} INFO - [2025-05-20 14:36:00,741] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:36:00,750] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.590 seconds
+[2025-05-20 14:36:32,142] {processor.py:163} INFO - Started process (PID=8124) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:36:32,143] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:36:32,144] {logging_mixin.py:109} INFO - [2025-05-20 14:36:32,144] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:36:32,647] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:36:32,656] {logging_mixin.py:109} INFO - [2025-05-20 14:36:32,656] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:36:32,670] {logging_mixin.py:109} INFO - [2025-05-20 14:36:32,669] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:36:32,679] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.539 seconds
+[2025-05-20 14:37:04,415] {processor.py:163} INFO - Started process (PID=8256) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:37:04,417] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:37:04,418] {logging_mixin.py:109} INFO - [2025-05-20 14:37:04,418] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:37:04,947] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:37:04,955] {logging_mixin.py:109} INFO - [2025-05-20 14:37:04,955] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:37:04,968] {logging_mixin.py:109} INFO - [2025-05-20 14:37:04,968] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:37:04,975] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.563 seconds
+[2025-05-20 14:37:36,777] {processor.py:163} INFO - Started process (PID=8398) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:37:36,780] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:37:36,780] {logging_mixin.py:109} INFO - [2025-05-20 14:37:36,780] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:37:37,273] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:37:37,279] {logging_mixin.py:109} INFO - [2025-05-20 14:37:37,279] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:37:37,293] {logging_mixin.py:109} INFO - [2025-05-20 14:37:37,292] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:37:37,299] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.524 seconds
+[2025-05-20 14:38:09,263] {processor.py:163} INFO - Started process (PID=8530) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:38:09,266] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:38:09,267] {logging_mixin.py:109} INFO - [2025-05-20 14:38:09,266] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:38:09,798] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:38:09,806] {logging_mixin.py:109} INFO - [2025-05-20 14:38:09,806] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:38:09,824] {logging_mixin.py:109} INFO - [2025-05-20 14:38:09,824] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:38:09,834] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.574 seconds
+[2025-05-20 14:38:41,864] {processor.py:163} INFO - Started process (PID=8672) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:38:41,865] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:38:41,866] {logging_mixin.py:109} INFO - [2025-05-20 14:38:41,866] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:38:42,286] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:38:42,295] {logging_mixin.py:109} INFO - [2025-05-20 14:38:42,294] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:38:42,308] {logging_mixin.py:109} INFO - [2025-05-20 14:38:42,307] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:38:42,316] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.454 seconds
+[2025-05-20 14:39:14,059] {processor.py:163} INFO - Started process (PID=8804) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:39:14,062] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:39:14,063] {logging_mixin.py:109} INFO - [2025-05-20 14:39:14,062] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:39:14,628] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:39:14,639] {logging_mixin.py:109} INFO - [2025-05-20 14:39:14,639] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:39:14,655] {logging_mixin.py:109} INFO - [2025-05-20 14:39:14,655] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:39:14,666] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.611 seconds
+[2025-05-20 14:39:46,497] {processor.py:163} INFO - Started process (PID=8946) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:39:46,498] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:39:46,499] {logging_mixin.py:109} INFO - [2025-05-20 14:39:46,499] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:39:46,990] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:39:46,999] {logging_mixin.py:109} INFO - [2025-05-20 14:39:46,999] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:39:47,014] {logging_mixin.py:109} INFO - [2025-05-20 14:39:47,014] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:39:47,022] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.528 seconds
+[2025-05-20 14:40:19,151] {processor.py:163} INFO - Started process (PID=9094) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:40:19,153] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:40:19,154] {logging_mixin.py:109} INFO - [2025-05-20 14:40:19,154] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:40:19,598] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:40:19,605] {logging_mixin.py:109} INFO - [2025-05-20 14:40:19,605] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:40:19,617] {logging_mixin.py:109} INFO - [2025-05-20 14:40:19,617] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:40:19,622] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.474 seconds
+[2025-05-20 14:40:51,339] {processor.py:163} INFO - Started process (PID=9226) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:40:51,340] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:40:51,341] {logging_mixin.py:109} INFO - [2025-05-20 14:40:51,341] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:40:51,744] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:40:51,752] {logging_mixin.py:109} INFO - [2025-05-20 14:40:51,752] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:40:51,764] {logging_mixin.py:109} INFO - [2025-05-20 14:40:51,764] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:40:51,772] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.435 seconds
+[2025-05-20 14:41:24,081] {processor.py:163} INFO - Started process (PID=9401) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:41:24,082] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:41:24,082] {logging_mixin.py:109} INFO - [2025-05-20 14:41:24,082] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:41:24,522] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:41:24,530] {logging_mixin.py:109} INFO - [2025-05-20 14:41:24,529] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:41:24,542] {logging_mixin.py:109} INFO - [2025-05-20 14:41:24,541] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:41:24,548] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.469 seconds
+[2025-05-20 14:41:56,741] {processor.py:163} INFO - Started process (PID=9550) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:41:56,743] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:41:56,743] {logging_mixin.py:109} INFO - [2025-05-20 14:41:56,743] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:41:57,126] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:41:57,133] {logging_mixin.py:109} INFO - [2025-05-20 14:41:57,133] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:41:57,145] {logging_mixin.py:109} INFO - [2025-05-20 14:41:57,145] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:41:57,152] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.412 seconds
+[2025-05-20 14:42:28,563] {processor.py:163} INFO - Started process (PID=9692) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:42:28,565] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:42:28,565] {logging_mixin.py:109} INFO - [2025-05-20 14:42:28,565] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:42:29,077] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:42:29,085] {logging_mixin.py:109} INFO - [2025-05-20 14:42:29,085] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:42:29,097] {logging_mixin.py:109} INFO - [2025-05-20 14:42:29,096] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:42:29,105] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.545 seconds
+[2025-05-20 14:43:00,971] {processor.py:163} INFO - Started process (PID=9824) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:43:00,972] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:43:00,973] {logging_mixin.py:109} INFO - [2025-05-20 14:43:00,973] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:43:01,496] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:43:01,505] {logging_mixin.py:109} INFO - [2025-05-20 14:43:01,504] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:43:01,519] {logging_mixin.py:109} INFO - [2025-05-20 14:43:01,519] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:43:01,527] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.558 seconds
+[2025-05-20 14:43:33,825] {processor.py:163} INFO - Started process (PID=9963) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:43:33,826] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:43:33,827] {logging_mixin.py:109} INFO - [2025-05-20 14:43:33,827] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:43:34,510] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:43:34,518] {logging_mixin.py:109} INFO - [2025-05-20 14:43:34,518] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:43:34,532] {logging_mixin.py:109} INFO - [2025-05-20 14:43:34,532] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:43:34,540] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.720 seconds
+[2025-05-20 14:44:06,338] {processor.py:163} INFO - Started process (PID=10098) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:44:06,339] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:44:06,339] {logging_mixin.py:109} INFO - [2025-05-20 14:44:06,339] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:44:06,790] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:44:06,797] {logging_mixin.py:109} INFO - [2025-05-20 14:44:06,797] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:44:06,808] {logging_mixin.py:109} INFO - [2025-05-20 14:44:06,808] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:44:06,816] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.480 seconds
+[2025-05-20 14:44:38,738] {processor.py:163} INFO - Started process (PID=10230) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:44:38,740] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:44:38,741] {logging_mixin.py:109} INFO - [2025-05-20 14:44:38,740] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:44:39,291] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:44:39,301] {logging_mixin.py:109} INFO - [2025-05-20 14:44:39,300] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:44:39,317] {logging_mixin.py:109} INFO - [2025-05-20 14:44:39,317] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:44:39,326] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.591 seconds
+[2025-05-20 14:45:11,081] {processor.py:163} INFO - Started process (PID=10372) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:45:11,082] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:45:11,082] {logging_mixin.py:109} INFO - [2025-05-20 14:45:11,082] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:45:11,526] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:45:11,533] {logging_mixin.py:109} INFO - [2025-05-20 14:45:11,533] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:45:11,546] {logging_mixin.py:109} INFO - [2025-05-20 14:45:11,546] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:45:11,552] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.474 seconds
+[2025-05-20 14:45:44,912] {processor.py:163} INFO - Started process (PID=10535) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:45:44,914] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:45:44,914] {logging_mixin.py:109} INFO - [2025-05-20 14:45:44,914] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:45:45,304] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:45:45,311] {logging_mixin.py:109} INFO - [2025-05-20 14:45:45,311] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:45:45,324] {logging_mixin.py:109} INFO - [2025-05-20 14:45:45,324] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:45:45,331] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.421 seconds
+[2025-05-20 14:46:17,254] {processor.py:163} INFO - Started process (PID=10678) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:46:17,255] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:46:17,256] {logging_mixin.py:109} INFO - [2025-05-20 14:46:17,255] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:46:17,768] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:46:17,776] {logging_mixin.py:109} INFO - [2025-05-20 14:46:17,776] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:46:17,789] {logging_mixin.py:109} INFO - [2025-05-20 14:46:17,788] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:46:17,796] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.545 seconds
+[2025-05-20 14:46:48,959] {processor.py:163} INFO - Started process (PID=10810) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:46:48,960] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:46:48,961] {logging_mixin.py:109} INFO - [2025-05-20 14:46:48,960] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:46:49,373] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:46:49,381] {logging_mixin.py:109} INFO - [2025-05-20 14:46:49,381] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:46:49,394] {logging_mixin.py:109} INFO - [2025-05-20 14:46:49,394] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:46:49,401] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.445 seconds
+[2025-05-20 14:47:22,158] {processor.py:163} INFO - Started process (PID=10944) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:47:22,159] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:47:22,160] {logging_mixin.py:109} INFO - [2025-05-20 14:47:22,160] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:47:22,636] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:47:22,644] {logging_mixin.py:109} INFO - [2025-05-20 14:47:22,644] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:47:22,656] {logging_mixin.py:109} INFO - [2025-05-20 14:47:22,656] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:47:22,664] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.509 seconds
+[2025-05-20 14:47:54,711] {processor.py:163} INFO - Started process (PID=11101) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:47:54,714] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:47:54,714] {logging_mixin.py:109} INFO - [2025-05-20 14:47:54,714] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:47:55,121] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:47:55,128] {logging_mixin.py:109} INFO - [2025-05-20 14:47:55,128] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:47:55,140] {logging_mixin.py:109} INFO - [2025-05-20 14:47:55,139] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:47:55,146] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.438 seconds
+[2025-05-20 14:48:27,418] {processor.py:163} INFO - Started process (PID=11233) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:48:27,419] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:48:27,420] {logging_mixin.py:109} INFO - [2025-05-20 14:48:27,420] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:48:27,800] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:48:27,809] {logging_mixin.py:109} INFO - [2025-05-20 14:48:27,809] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:48:27,823] {logging_mixin.py:109} INFO - [2025-05-20 14:48:27,823] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:48:27,830] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.414 seconds
+[2025-05-20 14:48:59,253] {processor.py:163} INFO - Started process (PID=11360) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:48:59,253] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:48:59,254] {logging_mixin.py:109} INFO - [2025-05-20 14:48:59,254] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:48:59,735] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:48:59,742] {logging_mixin.py:109} INFO - [2025-05-20 14:48:59,742] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:48:59,755] {logging_mixin.py:109} INFO - [2025-05-20 14:48:59,755] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:48:59,766] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.515 seconds
+[2025-05-20 14:49:33,133] {processor.py:163} INFO - Started process (PID=11507) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:49:33,134] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:49:33,135] {logging_mixin.py:109} INFO - [2025-05-20 14:49:33,135] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:49:33,663] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:49:33,672] {logging_mixin.py:109} INFO - [2025-05-20 14:49:33,672] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:49:33,688] {logging_mixin.py:109} INFO - [2025-05-20 14:49:33,688] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:49:33,695] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.564 seconds
+[2025-05-20 14:50:04,715] {processor.py:163} INFO - Started process (PID=11640) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:50:04,716] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:50:04,717] {logging_mixin.py:109} INFO - [2025-05-20 14:50:04,717] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:50:05,154] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:50:05,162] {logging_mixin.py:109} INFO - [2025-05-20 14:50:05,162] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:50:05,176] {logging_mixin.py:109} INFO - [2025-05-20 14:50:05,176] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:50:05,183] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.470 seconds
+[2025-05-20 14:50:37,359] {processor.py:163} INFO - Started process (PID=11782) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:50:37,361] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:50:37,361] {logging_mixin.py:109} INFO - [2025-05-20 14:50:37,361] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:50:37,897] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:50:37,904] {logging_mixin.py:109} INFO - [2025-05-20 14:50:37,904] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:50:37,916] {logging_mixin.py:109} INFO - [2025-05-20 14:50:37,916] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:50:37,924] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.567 seconds
+[2025-05-20 14:51:09,999] {processor.py:163} INFO - Started process (PID=11899) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:51:10,000] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:51:10,001] {logging_mixin.py:109} INFO - [2025-05-20 14:51:10,001] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:51:10,417] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:51:10,424] {logging_mixin.py:109} INFO - [2025-05-20 14:51:10,424] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:51:10,437] {logging_mixin.py:109} INFO - [2025-05-20 14:51:10,437] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:51:10,445] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.448 seconds
+[2025-05-20 14:51:43,077] {processor.py:163} INFO - Started process (PID=12046) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:51:43,078] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:51:43,079] {logging_mixin.py:109} INFO - [2025-05-20 14:51:43,078] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:51:43,546] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:51:43,553] {logging_mixin.py:109} INFO - [2025-05-20 14:51:43,553] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:51:43,569] {logging_mixin.py:109} INFO - [2025-05-20 14:51:43,569] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:51:43,577] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.503 seconds
+[2025-05-20 14:52:14,814] {processor.py:163} INFO - Started process (PID=12177) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:52:14,816] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:52:14,817] {logging_mixin.py:109} INFO - [2025-05-20 14:52:14,817] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:52:15,357] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:52:15,377] {logging_mixin.py:109} INFO - [2025-05-20 14:52:15,377] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:52:15,397] {logging_mixin.py:109} INFO - [2025-05-20 14:52:15,396] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:52:15,405] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.597 seconds
+[2025-05-20 14:52:48,332] {processor.py:163} INFO - Started process (PID=12340) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:52:48,333] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:52:48,334] {logging_mixin.py:109} INFO - [2025-05-20 14:52:48,334] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:52:48,822] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:52:48,830] {logging_mixin.py:109} INFO - [2025-05-20 14:52:48,830] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:52:48,856] {logging_mixin.py:109} INFO - [2025-05-20 14:52:48,855] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:52:48,886] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.556 seconds
+[2025-05-20 14:53:20,999] {processor.py:163} INFO - Started process (PID=12482) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:53:21,000] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:53:21,000] {logging_mixin.py:109} INFO - [2025-05-20 14:53:21,000] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:53:21,506] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:53:21,539] {logging_mixin.py:109} INFO - [2025-05-20 14:53:21,538] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:53:21,552] {logging_mixin.py:109} INFO - [2025-05-20 14:53:21,552] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:53:21,558] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.562 seconds
+[2025-05-20 14:53:53,883] {processor.py:163} INFO - Started process (PID=12614) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:53:53,884] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:53:53,884] {logging_mixin.py:109} INFO - [2025-05-20 14:53:53,884] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:53:54,373] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:53:54,381] {logging_mixin.py:109} INFO - [2025-05-20 14:53:54,381] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:53:54,400] {logging_mixin.py:109} INFO - [2025-05-20 14:53:54,400] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:53:54,409] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.529 seconds
+[2025-05-20 14:54:25,836] {processor.py:163} INFO - Started process (PID=12746) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:54:25,837] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:54:25,837] {logging_mixin.py:109} INFO - [2025-05-20 14:54:25,837] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:54:26,227] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:54:26,235] {logging_mixin.py:109} INFO - [2025-05-20 14:54:26,234] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:54:26,246] {logging_mixin.py:109} INFO - [2025-05-20 14:54:26,246] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:54:26,253] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.419 seconds
+[2025-05-20 14:54:58,514] {processor.py:163} INFO - Started process (PID=12888) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:54:58,516] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:54:58,516] {logging_mixin.py:109} INFO - [2025-05-20 14:54:58,516] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:54:58,900] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:54:58,907] {logging_mixin.py:109} INFO - [2025-05-20 14:54:58,907] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:54:58,919] {logging_mixin.py:109} INFO - [2025-05-20 14:54:58,918] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:54:58,925] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.413 seconds
+[2025-05-20 14:55:31,892] {processor.py:163} INFO - Started process (PID=13020) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:55:31,893] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:55:31,894] {logging_mixin.py:109} INFO - [2025-05-20 14:55:31,894] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:55:32,494] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:55:32,501] {logging_mixin.py:109} INFO - [2025-05-20 14:55:32,501] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:55:32,517] {logging_mixin.py:109} INFO - [2025-05-20 14:55:32,517] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:55:32,523] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.633 seconds
+[2025-05-20 14:56:04,837] {processor.py:163} INFO - Started process (PID=13159) to work on /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:56:04,838] {processor.py:642} INFO - Processing file /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py for tasks to queue
+[2025-05-20 14:56:04,838] {logging_mixin.py:109} INFO - [2025-05-20 14:56:04,838] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:56:05,314] {processor.py:654} INFO - DAG(s) dict_keys(['ETLWeatherPrintAirflow2']) retrieved from /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py
+[2025-05-20 14:56:05,323] {logging_mixin.py:109} INFO - [2025-05-20 14:56:05,322] {dag.py:2398} INFO - Sync 1 DAGs
+[2025-05-20 14:56:05,336] {logging_mixin.py:109} INFO - [2025-05-20 14:56:05,336] {dag.py:2937} INFO - Setting next_dagrun for ETLWeatherPrintAirflow2 to 2025-05-20T14:00:00+00:00
+[2025-05-20 14:56:05,345] {processor.py:171} INFO - Processing /opt/airflow/dags/00_ETLWeatherPrintAirflow2.py took 0.511 seconds
